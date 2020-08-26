@@ -5,6 +5,7 @@ interface ITheme {
         gray: string;
         primary: string;
         secondary: string;
+        tertiary: string;
         dangerPrimary: string;
         dangerSecondary: string;
     };

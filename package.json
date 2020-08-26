@@ -1,6 +1,6 @@
 {
   "name": "uhc-themes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Themes and colors for UHC front-end developments.",
   "main": "/dist/index.js",
   "scripts": {

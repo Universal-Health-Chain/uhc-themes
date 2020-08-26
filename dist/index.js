@@ -7,9 +7,10 @@ var theme = {
         gray: "#999999",
         primary: "#66cc66",
         secondary: "#33a8d5",
+        tertiary: "#46B5AD",
         dangerPrimary: "#D9984F",
-        dangerSecondary: "#D9534F",
-    },
+        dangerSecondary: "#D9534F"
+    }
 };
 exports.setPrimaryColor = function (color) {
     theme.color.primary = color;
