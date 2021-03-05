@@ -3,6 +3,7 @@ interface ITheme {
         black: string;
         white: string;
         gray: string;
+        lightgray: string;
         primary: string;
         secondary: string;
         tertiary: string;
